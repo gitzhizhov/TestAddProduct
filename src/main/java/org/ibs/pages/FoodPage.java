@@ -9,8 +9,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
 /**
- * Клас страницы товара
- * @author
+ * Клас описывающий страницу товара
+ * @author Andrey_Zhizhov
  */
 public class FoodPage extends BasePage {
 

@@ -11,6 +11,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
+/**
+ * Базовай класс всех старничек
+ * @author Andrey_Zhizhov
+ */
 public class BasePage {
 
     /**

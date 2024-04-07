@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 /**
  * Стартовая стриница приложения
- * @author
+ * @author Andrey_Zhizhov
  */
 public class HomePage extends BasePage {
 

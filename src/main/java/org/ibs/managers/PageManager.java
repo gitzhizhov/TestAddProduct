@@ -4,7 +4,7 @@ import org.ibs.pages.FoodPage;
 import org.ibs.pages.HomePage;
 
 /**
- * @author Zhizhov Andrey
+ * @author Andrey_Zhizhov
  * Класс для управления страницами
  */
 public class PageManager {

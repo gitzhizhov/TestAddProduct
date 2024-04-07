@@ -5,8 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 /**
- * Класс
- * @author
+ * Класс для управления веб драйвера
+ * @author Andrey_Zhizhov
  */
 public class DriverManager {
 
